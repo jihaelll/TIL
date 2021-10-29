@@ -6,5 +6,5 @@
 
 ## Bfxr 
 https://www.bfxr.net/
-- 게임 제작
+
 
