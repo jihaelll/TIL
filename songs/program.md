@@ -7,4 +7,6 @@
 ## Bfxr 
 https://www.bfxr.net/
 
+![image](https://user-images.githubusercontent.com/86907159/139521747-2add1a4f-094b-4b05-a64a-f14da88a565a.png)
 
+전자음 위주인듯. 
